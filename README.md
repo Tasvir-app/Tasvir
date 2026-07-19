@@ -81,7 +81,7 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 | [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1) | Formulas, event-horizon diagrams, scientific charts | 🔬 Science |
 | [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1) | Parabola drawings + LaTeX-style formula layout | 📐 Math |
 | [The Roman Empire](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1) | Era maps, emperor timeline, army-structure diagrams | 📜 History |
-| [2026 Turkey E-Commerce Market Report](https://app.tasvir.ai/c/6bd92ff5e6b1f274b234ac6ff808a04ba7cd90631333691bb195bdbb4fac00e6/1) | Executive summary, market charts, strategy recommendations | 📊 Report |
+| [Human Body Atlas](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
 
 <details>
 <summary><b>📚 See all 37 example documents (by category)</b></summary>
@@ -140,7 +140,6 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 
 **💼 Business & Creators**
 - [LinkedIn Creator Academy](https://app.tasvir.ai/c/61a10b3b016e3065c9f1c7c73c6c870d125f6b3525dfbdb8ecf965a1d039e236/1)
-- [2026 Turkey E-Commerce Market Report](https://app.tasvir.ai/c/6bd92ff5e6b1f274b234ac6ff808a04ba7cd90631333691bb195bdbb4fac00e6/1)
 - [YouTube and Reels Content Academy (Fast)](https://app.tasvir.ai/c/7173f9870c62cf2251886023bc76ca3a63647e6d948e25e33df3af8822ba893d/1)
 - [YouTube and Reels Content Academy (PRO)](https://app.tasvir.ai/c/038c3307b692bcd0cea978eb895751ee3e714e09926e46c3c7ebe6df5f2e68b6/1)
 - [Turkey's Renewable Energy Policies (thesis draft)](https://app.tasvir.ai/c/52331f0b92d37cfad712ed70fa8da8c4056af417127161daa22fbbba25f6e2a7/1)
