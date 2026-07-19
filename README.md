@@ -76,16 +76,17 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 
 | Document | What it shows | Category |
 |---|---|---|
-| [The Matrix Universe Guide](https://app.tasvir.ai/c/dcbe64fd6e414d695f560038c093f53015a79841cc3d51254d78c5885ef8a18e/1) | Cover, timeline, rating tables, red/blue pill decision diagram | 🎬 Film |
-| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1) | Editorial magazine, historical timeline, charts | 📜 History |
-| [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/3a676c1e7b96ba81b9e9d483c2249870c583a6322c4b72a5b46fac1a7c563eb5/1) | Route planning, price index radar chart, day-by-day guide | 🗺️ Travel |
-| [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1) | Formulas, event-horizon diagrams, scientific charts | 🔬 Science |
+| [Tarkan: Discography & Career Analysis](https://app.tasvir.ai/c/ff0ee333a0ec53c3fd7ac3a055a9b0ca08b22d8c5f6debc584adf07a41b5b928/1) | Album cards, hit-sales bar chart, concert map, era visual identity | 🎵 Music |
 | [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1) | Parabola drawings + LaTeX-style formula layout | 📐 Math |
-| [The Roman Empire](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1) | Era maps, emperor timeline, army-structure diagrams | 📜 History |
+| [The Matrix Universe Guide](https://app.tasvir.ai/c/dcbe64fd6e414d695f560038c093f53015a79841cc3d51254d78c5885ef8a18e/1) | Cover, timeline, rating tables, red/blue pill decision diagram | 🎬 Film |
+| [Inception: Architecture of the Mind](https://app.tasvir.ai/c/2ceb9ccc8341ed235799f196bcb12ebaae6ee08675026530ddb3549c977ce37c/1) | Dream-layer diagrams, character map (Mermaid), time-dilation chart | 🎬 Film |
+| [Machine Learning & Gradient Descent](https://app.tasvir.ai/c/98d7a0bb1e485e88429c979ccd375a11e4cdf78ed7975694dc3f2bc91e198a47/1) | Algorithm explanation, technical diagrams, coding support | 🤖 AI & Tech |
+| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1) | Editorial magazine, historical timeline, charts | 📜 History |
 | [Human Body Atlas](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
+| [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/751c87bc165d544786e5c7145c27c395f4064a1a6bbfc7a9791c78946cfdeea6/1) | Children's book, size comparisons, world map, fun facts | 🧒 Kids |
 
 <details>
-<summary><b>📚 See all 37 example documents (by category)</b></summary>
+<summary><b>📚 See all example documents (by category)</b></summary>
 
 <br/>
 
@@ -104,19 +105,11 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 **🔬 Science & Technical**
 - [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1)
 - [Machine Learning and Gradient Descent](https://app.tasvir.ai/c/98d7a0bb1e485e88429c979ccd375a11e4cdf78ed7975694dc3f2bc91e198a47/1)
-- [AI Literacy Academy](https://app.tasvir.ai/c/e3e483dc129ea83d47bfb1d64925f10ecf08c776cd5c7bf494775bb8e27ef8d9/1)
 
 **📐 Math & Exam Prep**
 - [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1)
 - [Analytic Geometry of the Line](https://app.tasvir.ai/c/8ad2afeb54293022f2aad161e4c16257a853ad2d0acc598f990fea3957ed8f4e/1)
-- [High School Geometry Final Review](https://app.tasvir.ai/c/4b567079ad3da447fa74301828c9c9602a636e53708ec12d21be0497f22ef40e/1)
-- [9th Grade Trigonometry](https://app.tasvir.ai/c/ae50a9f0cb018d5437af937b89ea00308df7566514186f2fca0678339192e1cb/1)
-- [High School Math Problems Academy (Fast)](https://app.tasvir.ai/c/0d63c4810c59118cbf305eff0d26989b05e53e8ebe99ad9fa63824dd27cd7668/1)
-- [High School Math Problems Academy (PRO)](https://app.tasvir.ai/c/4ae2a1be5e772aa1e72f14f0ff7b67ebaddac9efb015238e3a2b39020d934d57/1)
 - [IELTS Exam Preparation Guide](https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1)
-
-**🧑‍🏫 Teachers**
-- [4-Week Lesson Pack for Teachers](https://app.tasvir.ai/c/807fccc8d2dfaf2f48301f57204b882b0b36b1d6da1a49ac3b7d634639248a50/1)
 
 **🧒 Kids & Family**
 - [Human Body Atlas](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1)
@@ -131,18 +124,13 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 
 **🏃 Health & Wellness**
 - [14-Day Home Workout Plan](https://app.tasvir.ai/c/c08afee45d6e075289664bfca30bac7a176e13a3517883f4e4d9c008b56a3bca/1)
-- [Type 2 Diabetes Guide](https://app.tasvir.ai/c/776a65104ea7ea71b7a4719f3938f78f25bb2be6bf67b4f611dcca0d04b785fa/1)
-- [Healthy Living Plan for Beginners](https://app.tasvir.ai/c/80f61711b9faba09d47a92243ddc235272bcb2387a72f499ef8579c4bac471d6/1)
 
 **⚽ Sports & Music**
 - [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
 - [Fenerbahce 1907-2027](https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1)
 - [Tarkan Discography](https://app.tasvir.ai/c/ff0ee333a0ec53c3fd7ac3a055a9b0ca08b22d8c5f6debc584adf07a41b5b928/1)
 
-**💼 Business & Creators**
-- [LinkedIn Creator Academy](https://app.tasvir.ai/c/61a10b3b016e3065c9f1c7c73c6c870d125f6b3525dfbdb8ecf965a1d039e236/1)
-- [YouTube and Reels Content Academy (Fast)](https://app.tasvir.ai/c/7173f9870c62cf2251886023bc76ca3a63647e6d948e25e33df3af8822ba893d/1)
-- [YouTube and Reels Content Academy (PRO)](https://app.tasvir.ai/c/038c3307b692bcd0cea978eb895751ee3e714e09926e46c3c7ebe6df5f2e68b6/1)
+**🎓 Academic**
 - [Turkey's Renewable Energy Policies (thesis draft)](https://app.tasvir.ai/c/52331f0b92d37cfad712ed70fa8da8c4056af417127161daa22fbbba25f6e2a7/1)
 
 **🌐 Web / App Design**
