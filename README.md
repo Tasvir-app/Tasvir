@@ -80,7 +80,6 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 | [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/3a676c1e7b96ba81b9e9d483c2249870c583a6322c4b72a5b46fac1a7c563eb5/1) | Route planning, price index radar chart, day-by-day guide | 🗺️ Travel |
 | [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1) | Formulas, event-horizon diagrams, scientific charts | 🔬 Science |
 | [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1) | Parabola drawings + LaTeX-style formula layout | 📐 Math |
-| [Space Academy for Ages 8-12](https://app.tasvir.ai/c/1ca5412047a838ca32dbb5cd825e7a9f30b705f63dd98b11b0bc07f11279b692/1) | Kid-friendly lessons, mini quizzes, experiment ideas | 🧒 Kids |
 | [The Roman Empire](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1) | Era maps, emperor timeline, army-structure diagrams | 📜 History |
 | [2026 Turkey E-Commerce Market Report](https://app.tasvir.ai/c/6bd92ff5e6b1f274b234ac6ff808a04ba7cd90631333691bb195bdbb4fac00e6/1) | Executive summary, market charts, strategy recommendations | 📊 Report |
 
@@ -119,7 +118,6 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 - [4-Week Lesson Pack for Teachers](https://app.tasvir.ai/c/807fccc8d2dfaf2f48301f57204b882b0b36b1d6da1a49ac3b7d634639248a50/1)
 
 **🧒 Kids & Family**
-- [Space Academy for Ages 8-12](https://app.tasvir.ai/c/1ca5412047a838ca32dbb5cd825e7a9f30b705f63dd98b11b0bc07f11279b692/1)
 - [Human Body Atlas](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1)
 - [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/751c87bc165d544786e5c7145c27c395f4064a1a6bbfc7a9791c78946cfdeea6/1)
 - [Alphabet Learning Book](https://app.tasvir.ai/c/ee763b495a5646b323e5663aa6049e5ede20ec85cf9238a581c0ee434c6fdfd8/1)
