@@ -15,7 +15,7 @@
 
 *▲ Click to watch the 90-second demo*
 
-**[📄 See the Matrix document from the video — open it live →](https://app.tasvir.ai/c/dcbe64fd6e414d695f560038c093f53015a79841cc3d51254d78c5885ef8a18e/1)**
+**[📄 See the Matrix document from the video — open it live →](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1)**
 
 </div>
 
@@ -55,7 +55,7 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 - **Visual by default** — images, tables, charts, timelines, and diagrams.
 - **Printable output** — A4 / A3 / Canvas formats.
 - **Multi-domain** — education, science, history, health, sports, film, business, kids.
-- **Any language** — write your prompt in any language and Tasvir generates the document in that language. *(The examples below are in Turkish.)*
+- **Any language** — write your prompt in any language and Tasvir generates the document in that language.
 
 ## Who is it for?
 
@@ -72,18 +72,18 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 
 ## Live examples
 
-> These open the real generated documents in Tasvir. Each includes the **exact prompt** used — copy it and try the same. The examples are in Turkish, but Tasvir works in any language.
+> These open the real generated documents in Tasvir. Each includes the **exact prompt** used — copy it and try the same.
 
 | Document | What it shows | Category |
 |---|---|---|
-| [Tarkan: Discography & Career Analysis](https://app.tasvir.ai/c/ff0ee333a0ec53c3fd7ac3a055a9b0ca08b22d8c5f6debc584adf07a41b5b928/1) | Album cards, hit-sales bar chart, concert map, era visual identity | 🎵 Music |
-| [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1) | Parabola drawings + LaTeX-style formula layout | 📐 Math |
-| [The Matrix Universe Guide](https://app.tasvir.ai/c/dcbe64fd6e414d695f560038c093f53015a79841cc3d51254d78c5885ef8a18e/1) | Cover, timeline, rating tables, red/blue pill decision diagram | 🎬 Film |
-| [Inception: Architecture of the Mind](https://app.tasvir.ai/c/2ceb9ccc8341ed235799f196bcb12ebaae6ee08675026530ddb3549c977ce37c/1) | Dream-layer diagrams, character map (Mermaid), time-dilation chart | 🎬 Film |
-| [Machine Learning & Gradient Descent](https://app.tasvir.ai/c/98d7a0bb1e485e88429c979ccd375a11e4cdf78ed7975694dc3f2bc91e198a47/1) | Algorithm explanation, technical diagrams, coding support | 🤖 AI & Tech |
-| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1) | Editorial magazine, historical timeline, charts | 📜 History |
-| [Human Body Atlas](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
-| [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/751c87bc165d544786e5c7145c27c395f4064a1a6bbfc7a9791c78946cfdeea6/1) | Children's book, size comparisons, world map, fun facts | 🧒 Kids |
+| [Tarkan: Discography & Career Analysis](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Album cards, hit-sales bar chart, concert map, era visual identity | 🎵 Music |
+| [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Math |
+| [The Matrix Universe Guide](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Cover, timeline, rating tables, red/blue pill decision diagram | 🎬 Film |
+| [Inception: Architecture of the Mind](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1) | Dream-layer diagrams, character map (Mermaid), time-dilation chart | 🎬 Film |
+| [Machine Learning & Gradient Descent](https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1) | Algorithm explanation, technical diagrams, coding support | 🤖 AI & Tech |
+| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
+| [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
+| [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Children's book, size comparisons, world map, fun facts | 🧒 Kids |
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
@@ -91,31 +91,31 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 <br/>
 
 **🎬 Film & Gaming**
-- [The Matrix Universe Guide](https://app.tasvir.ai/c/dcbe64fd6e414d695f560038c093f53015a79841cc3d51254d78c5885ef8a18e/1)
-- [Inception Universe](https://app.tasvir.ai/c/2ceb9ccc8341ed235799f196bcb12ebaae6ee08675026530ddb3549c977ce37c/1)
+- [The Matrix Universe Guide](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1)
+- [Inception Universe](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1)
 - [Half-Life Universe and Story](https://app.tasvir.ai/c/20b80d4849f42fd45c29e21428f94080b5682585f0eb7bd17ecfadb1b370dabb/1)
 
 **📜 History**
-- [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1)
+- [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1)
 - [The Roman Empire](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1)
 
 **🗺️ Travel**
-- [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/3a676c1e7b96ba81b9e9d483c2249870c583a6322c4b72a5b46fac1a7c563eb5/1)
+- [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1)
 
 **🔬 Science & Technical**
-- [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1)
-- [Machine Learning and Gradient Descent](https://app.tasvir.ai/c/98d7a0bb1e485e88429c979ccd375a11e4cdf78ed7975694dc3f2bc91e198a47/1)
+- [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1)
+- [Machine Learning and Gradient Descent](https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1)
 
 **📐 Math & Exam Prep**
-- [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1)
-- [Analytic Geometry of the Line](https://app.tasvir.ai/c/8ad2afeb54293022f2aad161e4c16257a853ad2d0acc598f990fea3957ed8f4e/1)
+- [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1)
+- [Analytic Geometry of the Line](https://app.tasvir.ai/c/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693/1)
 - [IELTS Exam Preparation Guide](https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1)
 
 **🧒 Kids & Family**
-- [Human Body Atlas](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1)
-- [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/751c87bc165d544786e5c7145c27c395f4064a1a6bbfc7a9791c78946cfdeea6/1)
-- [Alphabet Learning Book](https://app.tasvir.ai/c/ee763b495a5646b323e5663aa6049e5ede20ec85cf9238a581c0ee434c6fdfd8/1)
-- [A Day in Space](https://app.tasvir.ai/c/cf963268f50ea352e5c975a5d4e8c3f99bc3e00f251a811a8c09f77d35c73063/1)
+- [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1)
+- [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1)
+- [Alphabet Learning Book](https://app.tasvir.ai/c/d58711386d9c1770c62b570a387e506bbd84beb43b4e79baf290438f90a8db61/1)
+- [A Day in Space](https://app.tasvir.ai/c/483aada38a908734c86c930f95ebb262fb55047d0dc56b08bbe88bfe5729c368/1)
 - [Newborn Baby First Year Guide](https://app.tasvir.ai/c/3fac562ceddbd19ea2a78c2d839a647f56eaa20516500c95899dbabb305cc469/1)
 
 **🗣️ Language Learning**
@@ -123,18 +123,18 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 - [30-Day English Basic Communication (PRO)](https://app.tasvir.ai/c/65b5f379e2771aecb7e4b1bad160f33e795e34a069b24fccc84268d210a0f5b1/1)
 
 **🏃 Health & Wellness**
-- [14-Day Home Workout Plan](https://app.tasvir.ai/c/c08afee45d6e075289664bfca30bac7a176e13a3517883f4e4d9c008b56a3bca/1)
+- [14-Day Home Workout Plan](https://app.tasvir.ai/c/4946bc7b840018254179c07c16871d8fba63be495b8bd66e0fb4affc959c0aa5/1)
 
 **⚽ Sports & Music**
 - [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
 - [Fenerbahce 1907-2027](https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1)
-- [Tarkan Discography](https://app.tasvir.ai/c/ff0ee333a0ec53c3fd7ac3a055a9b0ca08b22d8c5f6debc584adf07a41b5b928/1)
+- [Tarkan Discography](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
 
 **🎓 Academic**
-- [Turkey's Renewable Energy Policies (thesis draft)](https://app.tasvir.ai/c/52331f0b92d37cfad712ed70fa8da8c4056af417127161daa22fbbba25f6e2a7/1)
+- [Turkey's Renewable Energy Policies (thesis draft)](https://app.tasvir.ai/c/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39/1)
 
 **🌐 Web / App Design**
-- [Modern Online Education Platform (10 routes)](https://app.tasvir.ai/c/85c38000d0162f60352df723e91271ae4d5bab60e2c1c996a5c2def1c29e0940/1)
+- [Modern Online Education Platform (10 routes)](https://app.tasvir.ai/c/f895abeb29ca961c1500b2ce0de8d709447dba5d80a1ab0cf57ed6f62e1083e4/1)
 - [Instagram Page (6 routes)](https://app.tasvir.ai/c/86e896cea7d5182da26f504b1a2fd60a4f35cc6f357676ef669a4f832d49c9e0/1)
 
 </details>
