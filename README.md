@@ -76,8 +76,8 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 
 | Document | What it shows | Category |
 |---|---|---|
-| [Tarkan: Discography & Career Analysis](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Album cards, hit-sales bar chart, concert map, era visual identity | 🎵 Music |
 | [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Math |
+| [Tarkan: Discography & Career Analysis](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Album cards, hit-sales bar chart, concert map, era visual identity | 🎵 Music |
 | [The Matrix Universe Guide](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Cover, timeline, rating tables, red/blue pill decision diagram | 🎬 Film |
 | [Inception: Architecture of the Mind](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1) | Dream-layer diagrams, character map (Mermaid), time-dilation chart | 🎬 Film |
 | [Machine Learning & Gradient Descent](https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1) | Algorithm explanation, technical diagrams, coding support | 🤖 AI & Tech |
