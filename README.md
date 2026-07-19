@@ -161,4 +161,6 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 
 **Generate. Read. Learn. Share. Print.**
 
+Questions or feedback? [support@tasvir.ai](mailto:support@tasvir.ai)
+
 </div>
