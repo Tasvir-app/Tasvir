@@ -15,6 +15,8 @@
 
 *▲ Click to watch the 90-second demo*
 
+**[📄 See the Matrix document from the video — open it live →](https://app.tasvir.ai/c/dcbe64fd6e414d695f560038c093f53015a79841cc3d51254d78c5885ef8a18e/1)**
+
 </div>
 
 ---
