@@ -55,6 +55,7 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 - **Visual by default** — images, tables, charts, timelines, and diagrams.
 - **Printable output** — A4 / A3 / Canvas formats.
 - **Multi-domain** — education, science, history, health, sports, film, business, kids.
+- **Any language** — write your prompt in any language and Tasvir generates the document in that language. *(The examples below are in Turkish.)*
 
 ## Who is it for?
 
@@ -71,7 +72,7 @@ Write a single prompt, and a **planner agent** structures the idea: it understan
 
 ## Live examples
 
-> These open the real generated documents in Tasvir. Each includes the **exact prompt** used — copy it and try the same.
+> These open the real generated documents in Tasvir. Each includes the **exact prompt** used — copy it and try the same. The examples are in Turkish, but Tasvir works in any language.
 
 | Document | What it shows | Category |
 |---|---|---|
