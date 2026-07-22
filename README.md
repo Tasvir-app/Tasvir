@@ -44,13 +44,27 @@
 
 Tasvir doesn't just answer — it **builds documents**.
 
-Write a single prompt, and a **planner agent** structures the idea: it understands the topic, target audience, page flow, goal, theme, and color palette, then generates a long-form, visual, paginated document you can read, share, and print.
+Write a single prompt — or attach your own document — and a **planner agent** structures the idea: it understands the topic, target audience, page flow, goal, theme, and color palette, then generates a long-form, visual, paginated document you can read, share, and print.
 
-> **Prompt → Planner → Outline → Generation → Read → Share → Print**
+> **Prompt (or your document) → Planner → Outline → Generation → Read → Share → Print**
+
+## Document to Document
+
+Already have a document? Start from it instead of a blank prompt.
+
+Attach a single **PDF, Word file, or image** on the first screen, then tell Tasvir what you want:
+
+- Turn an image-free book into an **illustrated** one.
+- Turn plain notes into a **visual, paginated study guide**.
+- Turn a report into a **designed editorial magazine**.
+- Keep the content, upgrade the format.
+
+Tasvir reads the file **once** to understand its content, then plans and generates a much richer version. The file is used only for that generation and is **not stored**.
 
 ## Why Tasvir is different
 
 - **Document-first, not chat-first** — a paginated 25+ page document, not a single answer.
+- **Document-to-document** — bring any file and Tasvir rebuilds it as a richer, visual, paginated document.
 - **Planner-first generation** — the AI plans audience and page flow *before* writing.
 - **Visual by default** — images, tables, charts, timelines, and diagrams.
 - **Printable output** — A4 / A3 / Canvas formats.
