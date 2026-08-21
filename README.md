@@ -2,12 +2,23 @@
 
 # Tasvir
 
-### Agentic long-form document generator — turn one prompt into a readable, printable, shareable document.
+### AI study guide, textbook and document generator — turn any PDF or topic into a 25+ page illustrated, printable document.
 
-**Generate. Read. Learn. Share. Print.**
+[![Try Tasvir free](https://img.shields.io/badge/🚀_Try_Tasvir_free-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=top)
+[![Watch the 90s demo](https://img.shields.io/badge/▶_Watch_90s_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
+[![Website](https://img.shields.io/badge/tasvir.ai-0b0b12?style=for-the-badge)](https://tasvir.ai)
 
-[![Watch the demo](https://img.shields.io/badge/▶_Watch_90s_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
-[![Try Tasvir](https://img.shields.io/badge/🚀_Try_Tasvir-2563EB?style=for-the-badge)](https://app.tasvir.ai)
+</div>
+
+Upload your lecture notes or type what you are studying, and Tasvir writes a long-form visual document — study guides, textbooks, academic reports, magazines and children's books. A planner agent decides the audience, page flow, theme and visuals *before* writing, so you get 25+ paginated pages with images, tables, charts and diagrams instead of a wall of chat text. Your first document is free, and it works in any language.
+
+<div align="center">
+<br/>
+<img src="assets/doc-history.webp" width="260" alt="A Tasvir page on Ottoman history with body text and a migration map"/>
+<img src="assets/doc-magazine.webp" width="260" alt="A magazine cover Tasvir generated from the prompt shown below it"/>
+<img src="assets/doc-kids.webp" width="260" alt="An illustrated children's book page from a Tasvir document"/>
+
+*▲ Real pages from real Tasvir documents — not mockups*
 
 <br/>
 
@@ -15,28 +26,19 @@
 
 *▲ Click to watch the 90-second demo*
 
-**[📄 See the Matrix document from the video — open it live →](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1)**
-
 </div>
 
 ---
 
-## See it in action
+## Try it in 60 seconds
 
-<div align="center">
-<table>
-  <tr>
-    <td><img src="assets/01-image-create.png" width="250" alt="Image Create"/></td>
-    <td><img src="assets/02-write-your-book.png" width="250" alt="Write Your Own Book & Start Reading"/></td>
-    <td><img src="assets/03-revise.png" width="250" alt="Revise It as You Like"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/04-mini-broadcast.png" width="250" alt="Create Your Own Mini Broadcast"/></td>
-    <td><img src="assets/05-content-ready.png" width="250" alt="Grab Your Coffee, Your Content Is Ready"/></td>
-    <td><img src="assets/06-take-shape.png" width="250" alt="Write Down Your Idea, Let the Document Take Shape"/></td>
-  </tr>
-</table>
-</div>
+No install, no API key, no credit card.
+
+1. Open **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=quickstart)** and sign up.
+2. Drop in a PDF, a Word file or an image — or just type a topic like `Calculus – derivatives, university level, 20 pages`.
+3. Read the document, regenerate any page you do not like, then export to A4/A3 or share a link.
+
+Prefer to look before signing up? Every link in [Live examples](#live-examples) opens a finished document with no account.
 
 ---
 
@@ -47,6 +49,18 @@ Tasvir doesn't just answer — it **builds documents**.
 Write a single prompt, attach your own document, or drop in an image — and a **planner agent** structures the idea: it understands the topic, target audience, page flow, goal, theme, and color palette, then generates a long-form, visual, paginated document you can read, share, and print.
 
 > **Prompt (or your document) → Planner → Outline → Generation → Read → Share → Print**
+
+## How is it different from ChatGPT?
+
+ChatGPT answers questions. Tasvir builds documents.
+
+| | ChatGPT | Tasvir |
+|---|---|---|
+| Output | One answer in a chat thread | 25+ page paginated document |
+| Structure | You prompt for it | A planner agent designs it first |
+| Visuals | Occasional | Images, tables, charts, timelines, diagrams by default |
+| Printing | Copy-paste and reformat | A4 / A3 / Canvas export |
+| Fixing a mistake | Re-ask and re-read everything | Regenerate a single page |
 
 ## Start from anything
 
@@ -65,8 +79,9 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 - **Start from anything** — a prompt, a document, an image, or a document plus a prompt.
 - **Planner-first generation** — the AI plans audience and page flow *before* writing.
 - **Visual by default** — images, tables, charts, timelines, and diagrams.
+- **Page-level editing** — regenerate one page without touching the rest.
 - **Printable output** — A4 / A3 / Canvas formats.
-- **Multi-domain** — education, science, history, health, sports, film, business, kids.
+- **Multi-domain** — education, science, history, health, sports, business, kids.
 - **Any language** — write your prompt in any language and Tasvir generates the document in that language.
 
 ## Who is it for?
@@ -84,18 +99,16 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 
 ## Live examples
 
-> These open the real generated documents in Tasvir. Each includes the **exact prompt** used — copy it and try the same.
+> These open the real generated documents in Tasvir — no account needed. Each includes the **exact prompt** used, so you can copy it and try the same.
 
 | Document | What it shows | Category |
 |---|---|---|
-| [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Math |
-| [Tarkan: Discography & Career Analysis](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Album cards, hit-sales bar chart, concert map, era visual identity | 🎵 Music |
-| [The Matrix Universe Guide](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Cover, timeline, rating tables, red/blue pill decision diagram | 🎬 Film |
-| [Inception: Architecture of the Mind](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1) | Dream-layer diagrams, character map (Mermaid), time-dilation chart | 🎬 Film |
+| [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Exam prep |
+| [Analytic Geometry of the Line](https://app.tasvir.ai/c/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693/1) | A diagram beside every rule, theory stays readable | 📐 Exam prep |
 | [Machine Learning & Gradient Descent](https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1) | Algorithm explanation, technical diagrams, coding support | 🤖 AI & Tech |
-| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
+| [Turkey's Renewable Energy Policies](https://app.tasvir.ai/c/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39/1) | Thesis-style draft with data tables and charts | 🎓 Academic |
 | [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
-| [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Children's book, size comparisons, world map, fun facts | 🧒 Kids |
+| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
@@ -151,15 +164,58 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 
 </details>
 
+<details>
+<summary><b>📱 See it in the app</b></summary>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td><img src="assets/01-image-create.png" width="250" alt="Images generated inside a document"/></td>
+    <td><img src="assets/02-write-your-book.png" width="250" alt="Write your own book and start reading"/></td>
+    <td><img src="assets/03-revise.png" width="250" alt="Revise the document as you like"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/04-mini-broadcast.png" width="250" alt="Create your own mini broadcast"/></td>
+    <td><img src="assets/05-content-ready.png" width="250" alt="Your content is ready"/></td>
+    <td><img src="assets/06-take-shape.png" width="250" alt="Write down your idea and let the document take shape"/></td>
+  </tr>
+</table>
+</div>
+
+</details>
+
+<details>
+<summary><b>🇹🇷 Türkçe özet</b></summary>
+
+<br/>
+
+**Tasvir**, PDF'ini ya da tek bir konu cümlesini 25+ sayfalık, görselli, yazdırılabilir bir dokümana çevirir.
+
+Ders notlarını yükle ya da neye çalıştığını yaz. Planlayıcı ajan tek kelime yazılmadan önce hedef kitleyi, sayfa akışını, temayı ve görselleri belirler; sonra görsel, tablo, grafik ve diyagram içeren bir doküman üretir.
+
+- **Her şeyden başla** — sadece istem, sadece dosya, dosya + istem ya da görsel + istem.
+- **Sayfa bazlı düzenleme** — 7. sayfayı beğenmediysen sadece onu yeniden üret.
+- **Yazdırılabilir** — A4 / A3 / Canvas.
+- **Her dilde** — istemini hangi dilde yazarsan doküman o dilde gelir.
+- **Dosyan saklanmaz** — yüklediğin dosya yalnızca o üretim için bir kez okunur.
+
+İlk dokümanın ücretsiz: **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=tr)**
+
+</details>
+
 ---
 
 <div align="center">
 
-### Turn one idea into a complete long-form document.
+### Turn what you are studying into a document you actually want to read.
 
-[![Try Tasvir](https://img.shields.io/badge/🚀_Try_Tasvir_Now-2563EB?style=for-the-badge)](https://app.tasvir.ai)
+[![Try Tasvir free](https://img.shields.io/badge/🚀_Create_your_first_document_—_free-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=bottom)
 
 **Generate. Read. Learn. Share. Print.**
+
+If Tasvir is useful to you, a ⭐ on this repo helps other people find it.
 
 Questions or feedback? [support@tasvir.ai](mailto:support@tasvir.ai)
 
