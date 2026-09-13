@@ -43,6 +43,20 @@ Write a single prompt, attach your own document, or drop in an image — and a *
 
 > **Prompt (or your document) → Planner → Outline → Generation → Read → Share → Print**
 
+## How a document is actually built
+
+The only thing you write is step one.
+
+**1. You say what you need.** One sentence, or a PDF / Word file / photo of your notes.
+
+**2. Tasvir asks you questions.** How long, who reads it, which examples, which tone — you answer by tapping options. A section-by-section plan appears, and **nothing is written until you approve it.** You pick the length too (1, 5, 10, 15, 25 or 50 pages).
+
+**3. Pages are written and drawn one at a time.** Every page takes two passes: text and layout first, then that page's visual — a geometric drawing, chart, table, LaTeX formula, timeline or an AI image. Pages are stored individually, so a hiccup on page 12 of a 40-page document never costs you the first 11; generation resumes from there.
+
+**4. You read it, fix a page, print it.** Regenerating one page leaves the rest untouched. Then export to PDF/PPTX/PNG/SVG, print A4/A3, or share a link that needs no account.
+
+> The AI writes the text and designs the visuals, but it never emits SVG. It produces a declarative layout tree, and your browser measures the text, resolves the geometry into real coordinates and paginates it — which is why the pages hold together when printed.
+
 ## How is it different from ChatGPT?
 
 ChatGPT answers questions. Tasvir builds documents.
