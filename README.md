@@ -21,89 +21,6 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 
 </div>
 
----
-
-## Try it in 60 seconds
-
-No install, no API key, no credit card.
-
-1. Open **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=quickstart)** and sign up.
-2. Drop in a PDF, a Word file or an image — or just type a topic like `Calculus – derivatives, university level, 20 pages`.
-3. Read the document, regenerate any page you do not like, then export to A4/A3 or share a link.
-
-Prefer to look before signing up? Every link in [Live examples](#live-examples) opens a finished document with no account.
-
----
-
-## What is Tasvir?
-
-Tasvir doesn't just answer — it **builds documents**.
-
-Write a single prompt, attach your own document, or drop in an image — and a **planner agent** structures the idea: it understands the topic, target audience, page flow, goal, theme, and color palette, then generates a long-form, visual, paginated document you can read, share, and print.
-
-> **Prompt (or your document) → Planner → Outline → Generation → Read → Share → Print**
-
-## How a document is actually built
-
-The only thing you write is step one.
-
-**1. You say what you need.** One sentence, or a PDF / Word file / photo of your notes.
-
-**2. Tasvir asks you questions.** How long, who reads it, which examples, which tone — you answer by tapping options. A section-by-section plan appears, and **nothing is written until you approve it.** You pick the length too (1, 5, 10, 15, 25 or 50 pages).
-
-**3. Pages are written and drawn one at a time.** Every page takes two passes: text and layout first, then that page's visual — a geometric drawing, chart, table, LaTeX formula, timeline or an AI image. Pages are stored individually, so a hiccup on page 12 of a 40-page document never costs you the first 11; generation resumes from there.
-
-**4. You read it, fix a page, print it.** Regenerating one page leaves the rest untouched. Then export to PDF/PPTX/PNG/SVG, print A4/A3, or share a link that needs no account.
-
-> The AI writes the text and designs the visuals, but it never emits SVG. It produces a declarative layout tree, and your browser measures the text, resolves the geometry into real coordinates and paginates it — which is why the pages hold together when printed.
-
-## How is it different from ChatGPT?
-
-ChatGPT answers questions. Tasvir builds documents.
-
-| | ChatGPT | Tasvir |
-|---|---|---|
-| Output | One answer in a chat thread | Paginated document of up to 50 pages |
-| Structure | You prompt for it | A planner agent designs it first |
-| Visuals | Occasional | Images, tables, charts, timelines, diagrams by default |
-| Printing | Copy-paste and reformat | A4 / A3 / Canvas export |
-| Fixing a mistake | Re-ask and re-read everything | Regenerate a single page |
-
-## Start from anything
-
-Create a document in whatever way fits you:
-
-- **Prompt only** — write an idea and Tasvir builds the full document.
-- **Document only** — attach a PDF, Word file, or image and Tasvir rebuilds it into a richer version.
-- **Document + prompt** — attach a file and tell Tasvir what you want: *"make this image-free book illustrated"*, *"turn these notes into a visual guide"*, *"redesign this report as a magazine"*.
-- **Image + prompt** — attach an image to explain it, improve it, or just use it as a reference, then ask for the document you want.
-
-Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads it **once** to understand its content, then plans and generates a much richer version. The file is used only for that generation and is **not stored**.
-
-## Why Tasvir is different
-
-- **Document-first, not chat-first** — a paginated document of up to 50 pages, not a single answer.
-- **Start from anything** — a prompt, a document, an image, or a document plus a prompt.
-- **Planner-first generation** — the AI plans audience and page flow *before* writing.
-- **Visual by default** — images, tables, charts, timelines, and diagrams.
-- **Page-level editing** — regenerate one page without touching the rest.
-- **Printable output** — A4 / A3 / Canvas formats.
-- **Multi-domain** — education, science, history, health, sports, business, kids.
-- **Any language** — write your prompt in any language and Tasvir generates the document in that language.
-
-## Who is it for?
-
-| | |
-|---|---|
-| **Students** | Visual, printable study notes and exam-prep guides |
-| **Teachers** | Lesson packs, worksheets, explanations, activities |
-| **Creators** | Guides, playbooks, reports, shareable resources |
-| **Parents** | Child-friendly books, atlases, learning packs |
-| **Founders & teams** | Reports, launch playbooks, internal docs, dashboards |
-| **Everyone** | Turn any topic into a structured document — no design skills needed |
-
----
-
 ## Live examples
 
 > These open the real generated documents in Tasvir — no account needed. Each includes the **exact prompt** used, so you can copy it and try the same.
@@ -216,6 +133,91 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 
 </details>
 
+---
+
+## How a document is actually built
+
+The only thing you write is step one.
+
+**1. You say what you need.** One sentence, or a PDF / Word file / photo of your notes.
+
+**2. Tasvir asks you questions.** How long, who reads it, which examples, which tone — you answer by tapping options. A section-by-section plan appears, and **nothing is written until you approve it.** You pick the length too: one tap for 1, 5, 10, 15, 25 or 50 pages, or type your own up to 200.
+
+**3. Pages are written and drawn.** Every page takes two passes: text and layout first, then that page's visual — a geometric drawing, chart, table, LaTeX formula, timeline or an AI image. Pages that depend on each other are written in order, independent ones in parallel, and each is stored on its own — so a hiccup on page 12 of a 40-page document never costs you the first 11.
+
+**4. You read it, fix a page, print it.** Regenerating one page leaves the rest untouched. Then export to PDF/PPTX/PNG/SVG, print A4/A3, or share a link that needs no account.
+
+> The AI writes the text and designs the visuals, but it never emits SVG. It produces a declarative layout tree, and your browser measures the text, resolves the geometry into real coordinates and paginates it — which is why the pages hold together when printed.
+
+---
+
+## Try it in 60 seconds
+
+No install, no API key, no credit card.
+
+1. Open **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=quickstart)** and sign up.
+2. Drop in a PDF, a Word file or an image — or just type a topic like `Calculus – derivatives, university level, 20 pages`.
+3. Read the document, regenerate any page you do not like, then export to A4/A3 or share a link.
+
+Prefer to look before signing up? Every link in [Live examples](#live-examples) opens a finished document with no account.
+
+---
+
+## What is Tasvir?
+
+Tasvir doesn't just answer — it **builds documents**.
+
+Write a single prompt, attach your own document, or drop in an image — and a **planner agent** structures the idea: it understands the topic, target audience, page flow, goal, theme, and color palette, then generates a long-form, visual, paginated document you can read, share, and print.
+
+> **Prompt (or your document) → Planner → Outline → Generation → Read → Share → Print**
+
+## How is it different from ChatGPT?
+
+ChatGPT answers questions. Tasvir builds documents.
+
+| | ChatGPT | Tasvir |
+|---|---|---|
+| Output | One answer in a chat thread | Paginated document of up to 50 pages |
+| Structure | You prompt for it | A planner agent designs it first |
+| Visuals | Occasional | Images, tables, charts, timelines, diagrams by default |
+| Printing | Copy-paste and reformat | A4 or A3 pages, exported as PDF / PPTX / PNG / SVG |
+| Fixing a mistake | Re-ask and re-read everything | Regenerate a single page |
+
+## Start from anything
+
+Create a document in whatever way fits you:
+
+- **Prompt only** — write an idea and Tasvir builds the full document.
+- **Document only** — attach a PDF, Word file, or image and Tasvir rebuilds it into a richer version.
+- **Document + prompt** — attach a file and tell Tasvir what you want: *"make this image-free book illustrated"*, *"turn these notes into a visual guide"*, *"redesign this report as a magazine"*.
+- **Image + prompt** — attach an image to explain it, improve it, or just use it as a reference, then ask for the document you want.
+
+Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads it **once** to understand its content, then plans and generates a much richer version. The file is used only for that generation and is **not stored**.
+
+## Why Tasvir is different
+
+- **Document-first, not chat-first** — a paginated document of up to 50 pages, not a single answer.
+- **Start from anything** — a prompt, a document, an image, or a document plus a prompt.
+- **Planner-first generation** — the AI plans audience and page flow *before* writing.
+- **Visual by default** — images, tables, charts, timelines, and diagrams.
+- **Page-level editing** — regenerate one page without touching the rest.
+- **Printable output** — A4 or A3 pages, exported as PDF, PPTX, PNG or SVG.
+- **Multi-domain** — education, science, history, health, sports, business, kids.
+- **Any language** — write your prompt in any language and Tasvir generates the document in that language.
+
+## Who is it for?
+
+| | |
+|---|---|
+| **Students** | Visual, printable study notes and exam-prep guides |
+| **Teachers** | Lesson packs, worksheets, explanations, activities |
+| **Creators** | Guides, playbooks, reports, shareable resources |
+| **Parents** | Child-friendly books, atlases, learning packs |
+| **Founders & teams** | Reports, launch playbooks, internal docs, dashboards |
+| **Everyone** | Turn any topic into a structured document — no design skills needed |
+
+---
+
 <details>
 <summary><b>🇹🇷 Türkçe özet</b></summary>
 
@@ -227,7 +229,7 @@ Ders notlarını yükle ya da neye çalıştığını yaz. Planlayıcı ajan tek
 
 - **Her şeyden başla** — sadece istem, sadece dosya, dosya + istem ya da görsel + istem.
 - **Sayfa bazlı düzenleme** — 7. sayfayı beğenmediysen sadece onu yeniden üret.
-- **Yazdırılabilir** — A4 / A3 / Canvas.
+- **Yazdırılabilir** — A4 ya da A3 sayfa; PDF, PPTX, PNG ya da SVG olarak indirilir.
 - **Her dilde** — istemini hangi dilde yazarsan doküman o dilde gelir.
 - **Dosyan saklanmaz** — yüklediğin dosya yalnızca o üretim için bir kez okunur.
 
