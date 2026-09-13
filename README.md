@@ -2,7 +2,7 @@
 
 # Tasvir
 
-### AI study guide, textbook and document generator — turn any PDF or topic into a 25+ page illustrated, printable document.
+### AI study guide, textbook and document generator — turn any PDF or topic into an illustrated, printable document of up to 50 pages.
 
 [![Try Tasvir free](https://img.shields.io/badge/🚀_Try_Tasvir_free-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=top)
 [![Watch the 90s demo](https://img.shields.io/badge/▶_Watch_90s_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
@@ -10,16 +10,9 @@
 
 </div>
 
-Upload your lecture notes or type what you are studying, and Tasvir writes a long-form visual document — study guides, textbooks, academic reports, magazines and children's books. A planner agent decides the audience, page flow, theme and visuals *before* writing, so you get 25+ paginated pages with images, tables, charts and diagrams instead of a wall of chat text. Your first document is free, and it works in any language.
+Upload your lecture notes or type what you are studying, and Tasvir writes a long-form visual document — study guides, textbooks, academic reports, magazines and children's books. A planner agent decides the audience, page flow, theme and visuals *before* writing, so you get up to 50 paginated pages with images, tables, charts and diagrams instead of a wall of chat text. Every new account starts with 300 free credits — about five pages — and it works in any language.
 
 <div align="center">
-<br/>
-<img src="assets/doc-history.webp" width="260" alt="A Tasvir page on Ottoman history with body text and a migration map"/>
-<img src="assets/doc-magazine.webp" width="260" alt="A magazine cover Tasvir generated from the prompt shown below it"/>
-<img src="assets/doc-kids.webp" width="260" alt="An illustrated children's book page from a Tasvir document"/>
-
-*▲ Real pages from real Tasvir documents — not mockups*
-
 <br/>
 
 [![Tasvir demo video](https://img.youtube.com/vi/tZgCnnuzCYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
@@ -56,7 +49,7 @@ ChatGPT answers questions. Tasvir builds documents.
 
 | | ChatGPT | Tasvir |
 |---|---|---|
-| Output | One answer in a chat thread | 25+ page paginated document |
+| Output | One answer in a chat thread | Paginated document of up to 50 pages |
 | Structure | You prompt for it | A planner agent designs it first |
 | Visuals | Occasional | Images, tables, charts, timelines, diagrams by default |
 | Printing | Copy-paste and reformat | A4 / A3 / Canvas export |
@@ -75,7 +68,7 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 
 ## Why Tasvir is different
 
-- **Document-first, not chat-first** — a paginated 25+ page document, not a single answer.
+- **Document-first, not chat-first** — a paginated document of up to 50 pages, not a single answer.
 - **Start from anything** — a prompt, a document, an image, or a document plus a prompt.
 - **Planner-first generation** — the AI plans audience and page flow *before* writing.
 - **Visual by default** — images, tables, charts, timelines, and diagrams.
@@ -100,6 +93,51 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 ## Live examples
 
 > These open the real generated documents in Tasvir — no account needed. Each includes the **exact prompt** used, so you can copy it and try the same.
+
+> Studying for the Turkish university exam? There is a separate catalogue of 83 TYT/AYT topic documents: **[tasvir-yks](https://github.com/Tasvir-app/tasvir-yks)** — and a Turkish page at **[tasvir.ai/tr](https://tasvir.ai/tr/)**.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664" width="260" alt="Parabola Notes — Advanced Math"/>
+      </a>
+      <br/><strong>Parabola Notes</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693" width="260" alt="Analytic Geometry of the Line"/>
+      </a>
+      <br/><strong>Analytic Geometry</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830" width="260" alt="Machine Learning and Gradient Descent"/>
+      </a>
+      <br/><strong>Machine Learning</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39" width="260" alt="Turkey's Renewable Energy Policies"/>
+      </a>
+      <br/><strong>Renewable Energy</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c" width="260" alt="Human Body Atlas"/>
+      </a>
+      <br/><strong>Human Body Atlas</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a" width="260" alt="100th Anniversary of the Turkish Republic"/>
+      </a>
+      <br/><strong>Turkish Republic</strong>
+    </td>
+  </tr>
+</table>
 
 | Document | What it shows | Category |
 |---|---|---|
@@ -165,33 +203,11 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 </details>
 
 <details>
-<summary><b>📱 See it in the app</b></summary>
-
-<br/>
-
-<div align="center">
-<table>
-  <tr>
-    <td><img src="assets/01-image-create.png" width="250" alt="Images generated inside a document"/></td>
-    <td><img src="assets/02-write-your-book.png" width="250" alt="Write your own book and start reading"/></td>
-    <td><img src="assets/03-revise.png" width="250" alt="Revise the document as you like"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/04-mini-broadcast.png" width="250" alt="Create your own mini broadcast"/></td>
-    <td><img src="assets/05-content-ready.png" width="250" alt="Your content is ready"/></td>
-    <td><img src="assets/06-take-shape.png" width="250" alt="Write down your idea and let the document take shape"/></td>
-  </tr>
-</table>
-</div>
-
-</details>
-
-<details>
 <summary><b>🇹🇷 Türkçe özet</b></summary>
 
 <br/>
 
-**Tasvir**, PDF'ini ya da tek bir konu cümlesini 25+ sayfalık, görselli, yazdırılabilir bir dokümana çevirir.
+**Tasvir**, PDF'ini ya da tek bir konu cümlesini 50 sayfaya kadar görselli, yazdırılabilir bir dokümana çevirir.
 
 Ders notlarını yükle ya da neye çalıştığını yaz. Planlayıcı ajan tek kelime yazılmadan önce hedef kitleyi, sayfa akışını, temayı ve görselleri belirler; sonra görsel, tablo, grafik ve diyagram içeren bir doküman üretir.
 
@@ -201,7 +217,9 @@ Ders notlarını yükle ya da neye çalıştığını yaz. Planlayıcı ajan tek
 - **Her dilde** — istemini hangi dilde yazarsan doküman o dilde gelir.
 - **Dosyan saklanmaz** — yüklediğin dosya yalnızca o üretim için bir kez okunur.
 
-İlk dokümanın ücretsiz: **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=tr)**
+Kayıt olan her hesaba bir kez 300 kredi (yaklaşık 5 sayfa) tanımlanıyor: **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=tr)**
+
+Türkçe sayfa: **[tasvir.ai/tr](https://tasvir.ai/tr/)** — YKS'ye çalışıyorsan 83 TYT/AYT konu anlatımı dokümanı **[tasvir-yks](https://github.com/Tasvir-app/tasvir-yks)** repo'sunda.
 
 </details>
 
