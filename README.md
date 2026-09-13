@@ -94,7 +94,7 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 
 > These open the real generated documents in Tasvir — no account needed. Each includes the **exact prompt** used, so you can copy it and try the same.
 
-> Studying for the Turkish university exam? There is a separate catalogue of 83 TYT/AYT topic documents: **[tasvir-yks](https://github.com/Tasvir-app/tasvir-yks)** — and a Turkish page at **[tasvir.ai/tr](https://tasvir.ai/tr/)**.
+> Studying for the Turkish university exam? There is a separate catalogue of 83 TYT/AYT topic documents: **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)** — browsable at **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/)**.
 
 <table>
   <tr>
@@ -219,7 +219,7 @@ Ders notlarını yükle ya da neye çalıştığını yaz. Planlayıcı ajan tek
 
 Kayıt olan her hesaba bir kez 300 kredi (yaklaşık 5 sayfa) tanımlanıyor: **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=tr)**
 
-Türkçe sayfa: **[tasvir.ai/tr](https://tasvir.ai/tr/)** — YKS'ye çalışıyorsan 83 TYT/AYT konu anlatımı dokümanı **[tasvir-yks](https://github.com/Tasvir-app/tasvir-yks)** repo'sunda.
+Türkçe sayfa: **[tasvir.ai/tr](https://tasvir.ai/tr/)** — YKS'ye çalışıyorsan 83 TYT/AYT konu anlatımının kataloğu **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/)**, istemlerin tamamı **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)** repo'sunda.
 
 </details>
 
