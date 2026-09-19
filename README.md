@@ -30,36 +30,16 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664" width="260" alt="Parabola Notes — Advanced Math"/>
+      <a href="https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c" width="260" alt="7-Day Istanbul Discovery Guide"/>
       </a>
-      <br/><strong>Parabola Notes</strong>
+      <br/><strong>Istanbul in 7 Days</strong>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693" width="260" alt="Analytic Geometry of the Line"/>
+      <a href="https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460" width="260" alt="Black Holes and Hawking Radiation"/>
       </a>
-      <br/><strong>Analytic Geometry</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830" width="260" alt="Machine Learning and Gradient Descent"/>
-      </a>
-      <br/><strong>Machine Learning</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39" width="260" alt="Turkey's Renewable Energy Policies"/>
-      </a>
-      <br/><strong>Renewable Energy</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c" width="260" alt="Human Body Atlas"/>
-      </a>
-      <br/><strong>Human Body Atlas</strong>
+      <br/><strong>Black Holes</strong>
     </td>
     <td align="center" width="33%">
       <a href="https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1">
@@ -68,16 +48,36 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
       <br/><strong>Turkish Republic</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c" width="260" alt="Human Body Atlas"/>
+      </a>
+      <br/><strong>Human Body Atlas</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300" width="260" alt="A Day in the World of Dinosaurs"/>
+      </a>
+      <br/><strong>World of Dinosaurs</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664" width="260" alt="Parabola Notes — Advanced Math"/>
+      </a>
+      <br/><strong>Parabola Notes</strong>
+    </td>
+  </tr>
 </table>
 
 | Document | What it shows | Category |
 |---|---|---|
-| [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Exam prep |
-| [Analytic Geometry of the Line](https://app.tasvir.ai/c/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693/1) | A diagram beside every rule, theory stays readable | 📐 Exam prep |
-| [Machine Learning & Gradient Descent](https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1) | Algorithm explanation, technical diagrams, coding support | 🤖 AI & Tech |
-| [Turkey's Renewable Energy Policies](https://app.tasvir.ai/c/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39/1) | Thesis-style draft with data tables and charts | 🎓 Academic |
-| [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
+| [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1) | Day-by-day itinerary, neighbourhood budget tables, street-food maps | 🗺️ Travel |
+| [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1) | Dark-theme popular science, astrophysics renders, Schwarzschild maths | 🔬 Science |
 | [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
+| [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
+| [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Illustrated kids' book with size comparisons and habitat maps | 🧒 Kids |
+| [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Exam prep |
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
