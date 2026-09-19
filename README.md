@@ -79,6 +79,8 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 | [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Illustrated kids' book with size comparisons and habitat maps | 🧒 Kids |
 | [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Exam prep |
 
+The six above are a sample, not the range. The catalogue below also covers 🎬 film and gaming (The Matrix, Inception, Half-Life), ⚽ football club histories, 🎵 music, 🏃 fitness, 🗣️ language learning, 🎓 academic theses and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
+
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
 
