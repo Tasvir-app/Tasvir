@@ -30,56 +30,56 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1">
+        <img src="assets/doc-matrix.webp" width="260" alt="The Matrix Universe Guide"/>
+      </a>
+      <br/><strong>The Matrix</strong><br/><sub>🎬 Film &amp; Gaming</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1">
+        <img src="assets/doc-fenerbahce.webp" width="260" alt="Fenerbahce 1907-2027"/>
+      </a>
+      <br/><strong>Fenerbahce 1907-2027</strong><br/><sub>⚽ Sports</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c" width="260" alt="7-Day Istanbul Discovery Guide"/>
       </a>
-      <br/><strong>Istanbul in 7 Days</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460" width="260" alt="Black Holes and Hawking Radiation"/>
-      </a>
-      <br/><strong>Black Holes</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a" width="260" alt="100th Anniversary of the Turkish Republic"/>
-      </a>
-      <br/><strong>Turkish Republic</strong>
+      <br/><strong>Istanbul in 7 Days</strong><br/><sub>🗺️ Travel</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c" width="260" alt="Human Body Atlas"/>
+      <a href="https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460" width="260" alt="Black Holes and Hawking Radiation"/>
       </a>
-      <br/><strong>Human Body Atlas</strong>
+      <br/><strong>Black Holes</strong><br/><sub>🔬 Science</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300" width="260" alt="A Day in the World of Dinosaurs"/>
       </a>
-      <br/><strong>World of Dinosaurs</strong>
+      <br/><strong>World of Dinosaurs</strong><br/><sub>🧒 Kids</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664" width="260" alt="Parabola Notes — Advanced Math"/>
+      <a href="https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a" width="260" alt="100th Anniversary of the Turkish Republic"/>
       </a>
-      <br/><strong>Parabola Notes</strong>
+      <br/><strong>Turkish Republic</strong><br/><sub>📜 History</sub>
     </td>
   </tr>
 </table>
 
 | Document | What it shows | Category |
 |---|---|---|
+| [The Matrix Universe Guide](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Film timeline, character ratings, red pill / blue pill decision diagram | 🎬 Film &amp; Gaming |
+| [Fenerbahce 1907-2027](https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1) | 120 years of club history, illustrated, with era-by-era statistics | ⚽ Sports |
 | [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1) | Day-by-day itinerary, neighbourhood budget tables, street-food maps | 🗺️ Travel |
 | [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1) | Dark-theme popular science, astrophysics renders, Schwarzschild maths | 🔬 Science |
-| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
-| [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1) | Circulatory, nervous, digestive, skeletal, muscular, respiratory systems | 🧒 Kids |
 | [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Illustrated kids' book with size comparisons and habitat maps | 🧒 Kids |
-| [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1) | Parabola drawings + LaTeX-style formula layout | 📐 Exam prep |
+| [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
 
-The six above are a sample, not the range. The catalogue below also covers 🎬 film and gaming (The Matrix, Inception, Half-Life), ⚽ football club histories, 🎵 music, 🏃 fitness, 🗣️ language learning, 🎓 academic theses and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
+Six categories, six documents, one engine. The catalogue below adds 🎵 music, 🏃 fitness, 🗣️ language learning, 🎓 academic theses, 📐 exam prep and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
