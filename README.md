@@ -268,6 +268,8 @@ Ders notlarını yükle ya da neye çalıştığını yaz. Planlayıcı ajan tek
 
 Kayıt olan her hesaba bir kez 300 kredi (yaklaşık 5 sayfa) tanımlanıyor: **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=tr)**
 
+Bu README'nin Türkçesi ve Türkçe dokümanların tamamı: **[Tasvir-app/Tasvir-TR](https://github.com/Tasvir-app/Tasvir-TR)**
+
 Türkçe sayfa: **[tasvir.ai/tr](https://tasvir.ai/tr/)** — YKS'ye çalışıyorsan 83 TYT/AYT konu anlatımının kataloğu **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/)**, istemlerin tamamı **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)** repo'sunda.
 
 </details>
