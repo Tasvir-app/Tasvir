@@ -2,7 +2,7 @@
 
 # Tasvir
 
-### AI study guide, textbook and document generator — turn any PDF or topic into an illustrated, printable document of up to 50 pages.
+### AI study guide, textbook and document generator — turn any PDF or topic into an illustrated, printable document of up to 200 pages.
 
 [![Try Tasvir free](https://img.shields.io/badge/🚀_Try_Tasvir_free-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=top)
 [![Watch the 90s demo](https://img.shields.io/badge/▶_Watch_90s_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
@@ -10,7 +10,7 @@
 
 </div>
 
-Upload your lecture notes or type what you are studying, and Tasvir writes a long-form visual document — study guides, textbooks, academic reports, magazines and children's books. A planner agent decides the audience, page flow, theme and visuals *before* writing, so you get up to 50 paginated pages with images, tables, charts and diagrams instead of a wall of chat text. Every new account starts with 300 free credits — about five pages — and it works in any language.
+Upload your lecture notes or type what you are studying, and Tasvir writes a long-form visual document — study guides, textbooks, academic reports, magazines and children's books. A planner agent decides the audience, page flow, theme and visuals *before* writing, so you get up to 200 paginated pages with images, tables, charts and diagrams instead of a wall of chat text. Every new account starts with 300 free credits — about five pages — and it works in any language.
 
 <div align="center">
 <br/>
@@ -210,7 +210,7 @@ ChatGPT answers questions. Tasvir builds documents.
 
 | | ChatGPT | Tasvir |
 |---|---|---|
-| Output | One answer in a chat thread | Paginated document of up to 50 pages |
+| Output | One answer in a chat thread | Paginated document of up to 200 pages |
 | Structure | You prompt for it | A planner agent designs it first |
 | Visuals | Occasional | Images, tables, charts, timelines, diagrams by default |
 | Printing | Copy-paste and reformat | A4 or A3 pages, exported as PDF / PPTX / PNG / SVG |
@@ -229,7 +229,7 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 
 ## Why Tasvir is different
 
-- **Document-first, not chat-first** — a paginated document of up to 50 pages, not a single answer.
+- **Document-first, not chat-first** — a paginated document of up to 200 pages, not a single answer.
 - **Start from anything** — a prompt, a document, an image, or a document plus a prompt.
 - **Planner-first generation** — the AI plans audience and page flow *before* writing.
 - **Visual by default** — images, tables, charts, timelines, and diagrams.
@@ -256,7 +256,7 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 
 <br/>
 
-**Tasvir**, PDF'ini ya da tek bir konu cümlesini 50 sayfaya kadar görselli, yazdırılabilir bir dokümana çevirir.
+**Tasvir**, PDF'ini ya da tek bir konu cümlesini 200 sayfaya kadar görselli, yazdırılabilir bir dokümana çevirir.
 
 Ders notlarını yükle ya da neye çalıştığını yaz. Planlayıcı ajan tek kelime yazılmadan önce hedef kitleyi, sayfa akışını, temayı ve görselleri belirler; sonra görsel, tablo, grafik ve diyagram içeren bir doküman üretir.
 
