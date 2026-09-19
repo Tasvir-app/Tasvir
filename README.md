@@ -147,6 +147,37 @@ The only thing you write is step one.
 
 **4. You read it, fix a page, print it.** Regenerating one page leaves the rest untouched. Then export to PDF/PPTX/PNG/SVG, print A4/A3, or share a link that needs no account.
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/06-take-shape.webp" width="250" alt="Write down your idea and let the document take shape"/>
+      <br/>Start from a single sentence
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/04-mini-broadcast.webp" width="250" alt="Describe the document you want"/>
+      <br/>Or describe the exact document
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/01-image-create.webp" width="250" alt="Every page gets its own visual"/>
+      <br/>Every page gets its own visual
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/02-write-your-book.webp" width="250" alt="Read it like a book"/>
+      <br/>Read it like a book
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/03-revise.webp" width="250" alt="Regenerate any single page"/>
+      <br/>Regenerate any single page
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/05-content-ready.webp" width="250" alt="Export to PDF, PPTX, PNG or SVG"/>
+      <br/>Export, print or share
+    </td>
+  </tr>
+</table>
+
 > The AI writes the text and designs the visuals, but it never emits SVG. It produces a declarative layout tree, and your browser measures the text, resolves the geometry into real coordinates and paginates it — which is why the pages hold together when printed.
 
 ---
