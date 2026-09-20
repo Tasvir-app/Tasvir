@@ -79,7 +79,7 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 | [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Illustrated kids' book with size comparisons and habitat maps | 🧒 Kids |
 | [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
 
-Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 🏃 fitness and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
+Six categories, six documents, one engine. The catalogue below adds 🧒 kids' books, 🗺️ travel and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
@@ -101,11 +101,12 @@ Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 
 
 **🔬 Science & Technical**
 - [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1)
-- [Motion and Force](https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1)
+- [Inheritance](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1)
 
 **📐 Math**
-- [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1)
-- [Analytic Geometry of the Line](https://app.tasvir.ai/c/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693/1)
+- [Parabola](https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1)
+- [Analytic Geometry](https://app.tasvir.ai/c/0006f3d6fb06b6d213d4ffc71c37b604e419303c99cbbdf08ce87bdab818a793/1)
+- [Derivatives](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1)
 
 **🧒 Kids & Family**
 - [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1)
@@ -113,16 +114,14 @@ Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 
 - [Alphabet Learning Book](https://app.tasvir.ai/c/d58711386d9c1770c62b570a387e506bbd84beb43b4e79baf290438f90a8db61/1)
 - [A Day in Space](https://app.tasvir.ai/c/483aada38a908734c86c930f95ebb262fb55047d0dc56b08bbe88bfe5729c368/1)
 
-**🏃 Health & Wellness**
-- [14-Day Home Workout Plan](https://app.tasvir.ai/c/4946bc7b840018254179c07c16871d8fba63be495b8bd66e0fb4affc959c0aa5/1)
+**🧬 Biology**
+- [Cell Division](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1)
 
-**⚽ Sports & Music**
-- [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
+**🎵 Music**
 - [Tarkan Discography](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
 
 **🌐 Web / App Design**
 - [Modern Online Education Platform (10 routes)](https://app.tasvir.ai/c/f895abeb29ca961c1500b2ce0de8d709447dba5d80a1ab0cf57ed6f62e1083e4/1)
-- [Instagram Page (6 routes)](https://app.tasvir.ai/c/86e896cea7d5182da26f504b1a2fd60a4f35cc6f357676ef669a4f832d49c9e0/1)
 
 </details>
 
