@@ -79,7 +79,7 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 | [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Illustrated kids' book with size comparisons and habitat maps | 🧒 Kids |
 | [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
 
-Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 🏃 fitness, 🎓 academic theses and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
+Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 🏃 fitness and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
@@ -94,13 +94,14 @@ Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 
 **📜 History**
 - [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1)
 - [The Roman Empire](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1)
+- [The Ottomans](https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1)
 
 **🗺️ Travel**
 - [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1)
 
 **🔬 Science & Technical**
 - [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1)
-- [Machine Learning and Gradient Descent](https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1)
+- [Motion and Force](https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1)
 
 **📐 Math**
 - [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1)
@@ -118,9 +119,6 @@ Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 
 **⚽ Sports & Music**
 - [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
 - [Tarkan Discography](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
-
-**🎓 Academic**
-- [Turkey's Renewable Energy Policies (thesis draft)](https://app.tasvir.ai/c/299ee701251eb8d8f917dc693508f2cfabb0085f68dd9141886a6af9955cca39/1)
 
 **🌐 Web / App Design**
 - [Modern Online Education Platform (10 routes)](https://app.tasvir.ai/c/f895abeb29ca961c1500b2ce0de8d709447dba5d80a1ab0cf57ed6f62e1083e4/1)
