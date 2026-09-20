@@ -36,10 +36,10 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
       <br/><strong>The Matrix</strong><br/><sub>🎬 Film &amp; Gaming</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1">
-        <img src="assets/doc-fenerbahce.webp" width="260" alt="Fenerbahce 1907-2027"/>
+      <a href="https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464" width="260" alt="Tarkan Discography"/>
       </a>
-      <br/><strong>Fenerbahce 1907-2027</strong><br/><sub>⚽ Sports</sub>
+      <br/><strong>Tarkan Discography</strong><br/><sub>🎵 Music</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1">
@@ -73,13 +73,13 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 | Document | What it shows | Category |
 |---|---|---|
 | [The Matrix Universe Guide](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Film timeline, character ratings, red pill / blue pill decision diagram | 🎬 Film &amp; Gaming |
-| [Fenerbahce 1907-2027](https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1) | 120 years of club history, illustrated, with era-by-era statistics | ⚽ Sports |
+| [Tarkan Discography](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Album cards, hit sales chart, concert map, era-by-era visual identity | 🎵 Music |
 | [7-Day Istanbul Discovery Guide](https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1) | Day-by-day itinerary, neighbourhood budget tables, street-food maps | 🗺️ Travel |
 | [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1) | Dark-theme popular science, astrophysics renders, Schwarzschild maths | 🔬 Science |
 | [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Illustrated kids' book with size comparisons and habitat maps | 🧒 Kids |
 | [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
 
-Six categories, six documents, one engine. The catalogue below adds 🎵 music, 🏃 fitness, 🗣️ language learning, 🎓 academic theses, 📐 exam prep and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
+Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 🏃 fitness, 🎓 academic theses, 📐 exam prep and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
@@ -112,18 +112,12 @@ Six categories, six documents, one engine. The catalogue below adds 🎵 music, 
 - [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1)
 - [Alphabet Learning Book](https://app.tasvir.ai/c/d58711386d9c1770c62b570a387e506bbd84beb43b4e79baf290438f90a8db61/1)
 - [A Day in Space](https://app.tasvir.ai/c/483aada38a908734c86c930f95ebb262fb55047d0dc56b08bbe88bfe5729c368/1)
-- [Newborn Baby First Year Guide](https://app.tasvir.ai/c/3fac562ceddbd19ea2a78c2d839a647f56eaa20516500c95899dbabb305cc469/1)
-
-**🗣️ Language Learning**
-- [30-Day English Basic Communication (Fast)](https://app.tasvir.ai/c/74614f012994ea1ffc599656e4c3bd6599e8342502950d14f43eff0706601ea7/1)
-- [30-Day English Basic Communication (PRO)](https://app.tasvir.ai/c/65b5f379e2771aecb7e4b1bad160f33e795e34a069b24fccc84268d210a0f5b1/1)
 
 **🏃 Health & Wellness**
 - [14-Day Home Workout Plan](https://app.tasvir.ai/c/4946bc7b840018254179c07c16871d8fba63be495b8bd66e0fb4affc959c0aa5/1)
 
 **⚽ Sports & Music**
 - [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
-- [Fenerbahce 1907-2027](https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1)
 - [Tarkan Discography](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
 
 **🎓 Academic**
