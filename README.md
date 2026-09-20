@@ -79,7 +79,7 @@ Upload your lecture notes or type what you are studying, and Tasvir writes a lon
 | [A Day in the World of Dinosaurs](https://app.tasvir.ai/c/cd489ef1a4623172dad283b4b3824d0fb570004d1975f70626dbb69db1389300/1) | Illustrated kids' book with size comparisons and habitat maps | 🧒 Kids |
 | [100th Anniversary of the Turkish Republic](https://app.tasvir.ai/c/280d3ec831eb7728c4a47b62edc73a4f5125f53258ae398ee2dfc465b017f60a/1) | Editorial magazine, historical timeline, charts | 📜 History |
 
-Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 🏃 fitness, 🎓 academic theses, 📐 exam prep and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
+Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 🏃 fitness, 🎓 academic theses and 🌐 web and app design — because a document generator that only made study notes would be a study-note generator.
 
 <details>
 <summary><b>📚 See all example documents (by category)</b></summary>
@@ -102,10 +102,9 @@ Six categories, six documents, one engine. The catalogue below adds ⚽ sports, 
 - [Black Holes and Hawking Radiation](https://app.tasvir.ai/c/636b871fcbc9f3dd44f2b66f8523d0ebe3b5839c764e1dffedb0cf9049ce5460/1)
 - [Machine Learning and Gradient Descent](https://app.tasvir.ai/c/50d6b8b64239986c8ea156f99660d6e56efb1e9f0ab14722ceca4e8040ec9830/1)
 
-**📐 Math & Exam Prep**
+**📐 Math**
 - [Parabola Notes — Advanced Math](https://app.tasvir.ai/c/565874419d853973ac8ad491c7655b67500cefdc3fbe36753c862db1a8589664/1)
 - [Analytic Geometry of the Line](https://app.tasvir.ai/c/4c7fd571f7dfb2b7d8ab36c1b23fd181e3b4415aad3361fd4cd5779893dbc693/1)
-- [IELTS Exam Preparation Guide](https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1)
 
 **🧒 Kids & Family**
 - [Human Body Atlas](https://app.tasvir.ai/c/0a452cf58022c0d1482da8402a3f9791f833c7c9278df985df2f063822728a2c/1)
