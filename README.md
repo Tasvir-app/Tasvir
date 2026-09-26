@@ -8,6 +8,8 @@
 [![Watch the 90s demo](https://img.shields.io/badge/▶_Watch_90s_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
 [![Website](https://img.shields.io/badge/tasvir.ai-0b0b12?style=for-the-badge)](https://tasvir.ai)
 
+**🏠 Tasvir app** · [🎨 Canvas Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode) · [📚 YKS Hazırlık (TR)](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇹🇷 Türkçe](https://github.com/Tasvir-app/Tasvir-TR)
+
 </div>
 
 Upload your lecture notes or type what you are studying, and Tasvir writes a long-form visual document — study guides, textbooks, academic reports, magazines and children's books. A planner agent decides the audience, page flow, theme and visuals *before* writing, so you get up to 200 paginated pages with images, tables, charts and diagrams instead of a wall of chat text. Every new account starts with 300 free credits — about five pages — and it works in any language.
