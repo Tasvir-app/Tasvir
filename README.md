@@ -125,6 +125,20 @@ Six categories, six documents, one engine. The catalogue below adds 🧒 kids' b
 
 </details>
 
+### Canvas mode: one idea, 25 scenes
+
+Documents are printable pages. Canvas is a 1440-pixel-wide free stage with no paper frame, so a topic can be told as a poster series, a storyboard or a set of collector's cards:
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/772cfebdf5740204d133410dd29be7f26416306be2a6777538ae47dcf6477515/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/772cfebdf5740204d133410dd29be7f26416306be2a6777538ae47dcf6477515" width="280" alt="CRISPR as an IKEA assembly manual"/></a><br/><strong>CRISPR</strong><br/><sub>× IKEA assembly manual</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4d513f80ad59ca71f072f2da90f615970c386cabf9165d44a6d4cacccdfbffc1/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4d513f80ad59ca71f072f2da90f615970c386cabf9165d44a6d4cacccdfbffc1" width="280" alt="A black hole as a luxury resort brochure"/></a><br/><strong>A black hole</strong><br/><sub>× Schwarzschild Resort brochure</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/8ba4632010d3c54b2125260cf694ddb4f1e61125f35df924382e58579bf00a03/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/8ba4632010d3c54b2125260cf694ddb4f1e61125f35df924382e58579bf00a03" width="280" alt="Inception as an architecture magazine"/></a><br/><strong>Inception</strong><br/><sub>× architecture magazine</sub></td>
+  </tr>
+</table>
+
+Every series with its prompt: **[Tasvir-Canvas-Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)** (English) · **[Tasvir-Canvas-Mode-TR](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)** (45 Turkish series).
+
 ---
 
 ## How a document is actually built
