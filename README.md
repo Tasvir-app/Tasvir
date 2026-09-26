@@ -228,6 +228,17 @@ Attach a single **PDF, Word file, or image** on the first screen. Tasvir reads i
 - **Multi-domain** — education, science, history, health, sports, business, kids.
 - **Any language** — write your prompt in any language and Tasvir generates the document in that language.
 
+## What Tasvir can draw
+
+Every page gets the visual its idea needs, drawn for that page rather than pasted in:
+
+- **25 chart types** — bar, line, area, scatter, heatmap, radar, treemap, waterfall, candlestick and more
+- **17 diagram types** — kanban, mindmap, timeline, gantt, sankey, flowchart, sequence and more
+- **Geometry and maths** — angles, arcs, polygons, coordinate planes, tangents, TikZ drawings, LaTeX formulas
+- **AI illustrations, syntax-highlighted code, tables and icons**
+
+Pages come in two kinds: fixed printable **documents** (A4, A3, A5, slides) and free 1440-wide **canvas** scenes that grow to fit. The full list is at **[tasvir.ai/features](https://tasvir.ai/features/)**.
+
 ## Who is it for?
 
 | | |
