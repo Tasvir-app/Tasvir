@@ -266,7 +266,7 @@ Pages come in two kinds: fixed printable **documents** (A4, A3, A5, slides) and 
 | **Founders & teams** | Reports, launch playbooks, internal docs, dashboards |
 | **Everyone** | Turn any topic into a structured document — no design skills needed |
 
-Running a school, tutoring center or team? **[Organization accounts →](https://tasvir.ai/organizations/)** — bulk credit, Excel member import, roles.
+Running a school, tutoring center or team? **[Create an organization →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=tasvir&utm_content=institutions)** — bulk credit, Excel member import, roles. [How it works](https://tasvir.ai/organizations/).
 
 ---
 
