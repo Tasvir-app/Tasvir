@@ -8,7 +8,7 @@
 [![Watch the 90s demo](https://img.shields.io/badge/▶_Watch_90s_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
 [![Website](https://img.shields.io/badge/tasvir.ai-0b0b12?style=for-the-badge)](https://tasvir.ai)
 
-**🏠 Tasvir app** · [🎨 Canvas Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode) · [📚 YKS Hazırlık (TR)](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇹🇷 Türkçe](https://github.com/Tasvir-app/Tasvir-TR)
+**🏠 Tasvir app** · [🎨 Canvas Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode) · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · [📚 YKS Hazırlık (TR)](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇹🇷 Türkçe](https://github.com/Tasvir-app/Tasvir-TR)
 
 </div>
 
@@ -124,6 +124,7 @@ Six categories, six documents, one engine. The catalogue below adds 🧒 kids' b
 
 **🌐 Web / App Design**
 - [Modern Online Education Platform (10 routes)](https://app.tasvir.ai/c/f895abeb29ca961c1500b2ce0de8d709447dba5d80a1ab0cf57ed6f62e1083e4/1)
+- [Live Streaming Platform UI (25 screens)](https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1)
 
 </details>
 
@@ -140,6 +141,14 @@ Documents are printable pages. Canvas is a 1440-pixel-wide free stage with no pa
 </table>
 
 Every series with its prompt: **[Tasvir-Canvas-Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)** (English) · **[Tasvir-Canvas-Mode-TR](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)** (45 Turkish series).
+
+### Web designs → Figma
+
+Describe a website and Tasvir designs every screen at 1440px. **Publish → Copy for Figma**, then Ctrl+V in Figma: the screen arrives as editable vector layers.
+
+<p align="center"><a href="https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma"><img src="https://raw.githubusercontent.com/Tasvir-app/Tasvir-Web-Designs-to-Figma/main/assets/figma-paste.webp" width="560" alt="A Tasvir web design pasted into Figma"/></a></p>
+
+A 25-screen streaming platform from four short messages, with the prompt: **[Tasvir-Web-Designs-to-Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma)**.
 
 ---
 
